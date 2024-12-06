@@ -3,5 +3,4 @@
 - With skills in C++, JS, JAVA, PYTHON, WEB and MOBILE APPLICATIONS, [...]
 - I’m currently learning Data Structures, Machine Learning and AI 
 
-keep in touch?
 - EMAIL: bsc-com-01-21@unima.ac.mw Misheckgchihana@gmail.com
