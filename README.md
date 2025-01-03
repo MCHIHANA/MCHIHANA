@@ -4,3 +4,7 @@
 - I’m currently learning Data Structures, Machine Learning and AI 
 
 - EMAIL: bsc-com-01-21@unima.ac.mw Misheckgchihana@gmail.com
+- 
+### Connect with me:
+- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/misheck-chihana-b02252343/))
+- [Facebook](https://web.facebook.com/misheck.chihana.52)
