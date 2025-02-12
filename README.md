@@ -1,4 +1,4 @@
-- Hi there! 👋 I'm Misheck Chihana, a student at the University of Malawi (UNIMA), pursuing a BSc. in Computer Science.
+- ## Hi there! 👋 I'm Misheck Chihana, a student at the University of Malawi (UNIMA), pursuing a BSc. in Computer Science.
 
 - Passionate about Programming and Computer Science in general
 - Skilled in C++, Java, Python, JavaScript, GO and Web & Mobile Application Development with current technologies 
