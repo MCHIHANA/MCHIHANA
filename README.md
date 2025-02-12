@@ -1,7 +1,7 @@
 - Hi, I’m @MCHIHANA a Student at University of Malawi (UNIMA) Studying BSc. Computer Science
-- I’m interested in Programming and Computer Science in General
-- With skills in C++, JS, JAVA, PYTHON, WEB and MOBILE APPLICATIONS, [...]
-- I’m currently Machine Learning and AI 
+- Passionate about Programming and Computer Science in general
+- Skilled in C++, Java, Python, JavaScript, GO and Web & Mobile Application Development with current technologies 
+- Currently exploring and Learning Machine Learning and Artificial Intelligence.
 
 - EMAIL: bsc-com-01-21@unima.ac.mw Misheckgchihana@gmail.com
 - 
